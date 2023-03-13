@@ -5,8 +5,10 @@ CODEOWNERS file. For example, you could use CODEOWNERS to ensure:
 
 ## An ordered list
 
-1. Item1
-1. Item1
-1. Item1
-1. Item1
-1. Item5
+This list shows a list of important full stack development skills.
+
+1. HTML, CSS
+1. Javascript
+1. NodeJS
+1. Git
+1. How the internet works
