@@ -12,4 +12,4 @@ This list shows a list of important full stack development skills.
 1. NodeJS
 1. Git
 1. How the internet works
-1. Web Hosting and Deployment
+1. Web Hosting and Deployments
